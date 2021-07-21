@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ✨ This is Xiao_Jin! ✨  
-- A junior high school student
-- Busy studying
-- No energy to update my projects :cry:
+- 🐍 Python is BEST!
+- A senior high school student in China!
+- A personal developer!
+- Make QQ bot by Graia Framework!
