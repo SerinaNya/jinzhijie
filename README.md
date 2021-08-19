@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - A senior high school student in China!
 - A personal developer!
 - Make QQ bot by Graia Framework!
+- 🤒 Also a MDD patient... Hopeless sometime...
