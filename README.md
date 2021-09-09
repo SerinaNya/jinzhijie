@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ✨ This is Xiao_Jin! ✨  
 - 🐍 Python is BEST!
-- A senior high school student in China!
+- A senior high school student in Shanghai!
 - A personal developer!
-- Make QQ bot by Graia Framework!
-- 🤒 Also depressed patient... Hopeless sometime...
+- Making QQ bot by Graia Framework!
+- 🤒 Also a depresstion patient... Need help...
