@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - A senior high school student in Shanghai!
 - A personal developer!
 - Making QQ bot by Graia Framework!
-- 🤒 Also a depresstion patient... Need help...
+- Own AS149795 Zhijie Jin!!!
